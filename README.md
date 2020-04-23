@@ -1,0 +1,2 @@
+# Newton-Interpolation
+School work 
